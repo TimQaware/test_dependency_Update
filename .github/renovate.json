@@ -4,4 +4,15 @@
     "config:base",
     ":disableRateLimiting"
   ]
+  "timezone": "Europe/Berlin",
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true,
+      "automergeComment": "Auto-Merge By Renovate",
+      "automergeType": "pr",
+      "automergeStrategy": "merge-commit"
+    }
+  ],
+  "Label": ["dependencies"],
 }
