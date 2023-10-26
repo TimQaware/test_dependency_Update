@@ -9,7 +9,7 @@
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true,
-      "automergeComment": "Auto-Merge By Renovate",
+      "automergeComment": "Auto-Merge By ttttt Renovate",
       "automergeType": "pr",
       "automergeStrategy": "merge-commit"
     }
