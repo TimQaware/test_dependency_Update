@@ -14,5 +14,5 @@
       "automergeStrategy": "merge-commit"
     }
   ],
-  "label": ["dependencies"]
+  "labels": ["dependencies"]
 }
