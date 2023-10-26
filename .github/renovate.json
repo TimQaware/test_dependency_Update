@@ -4,6 +4,9 @@
     "config:base",
     ":disableRateLimiting"
   ],
+  "repositories": [
+    "TimQaware/test_dependency_Update"
+  ],
   "timezone": "Europe/Berlin",
   "packageRules": [
     {
